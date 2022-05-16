@@ -1,4 +1,4 @@
-## MEU PERRIL
+## MEU PERFIL
 - 👋 Olá meu nome é @DeboraCamila
 - 👍 Meu e-mail de contato é debora.brandalieze@escola.pr.gov.br
 - 👀 Eu estou interessado a programar novas linguagens
